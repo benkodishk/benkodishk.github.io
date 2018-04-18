@@ -1,0 +1,17 @@
+e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\ReverseMap\resources.pri
+e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\AppxManifest.xml
+e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\CompanyHome.build.appxrecipe
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\CompanyHome.jsproj.CoreCompileInputs.cache
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\ResourceHandlingTask.state
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\priconfig.xml
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\priconfig.xml.intermediate
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\layout.resfiles
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\layout.resfiles.intermediate
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\resources.resfiles
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\resources.resfiles.intermediate
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\pri.resfiles
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\pri.resfiles.intermediate
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\qualifiers.txt
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\qualifiers.txt.intermediate
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\ProjectArchitectures.txt

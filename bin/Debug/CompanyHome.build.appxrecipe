@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HIN-AI</Machine>
+    <WindowsUser>hin</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>56516ab8-c60a-4b0e-b3e9-7ec70c366b9d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=hin</PackageIdentityPublisher>
+    <IntermediateOutputPath>e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\about-us.html">
+      <PackagePath>about-us.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\contact.html">
+      <PackagePath>contact.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\gallery.html">
+      <PackagePath>gallery.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\premium.html">
+      <PackagePath>premium.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\services.html">
+      <PackagePath>services.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\components.css">
+      <PackagePath>css\components.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\icons.css">
+      <PackagePath>css\icons.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\responsee.css">
+      <PackagePath>css\responsee.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\template-style.css">
+      <PackagePath>css\template-style.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.carousel.css">
+      <PackagePath>owl-carousel\owl.carousel.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.theme.css">
+      <PackagePath>owl-carousel\owl.theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\mfglabsiconset-webfont.eot">
+      <PackagePath>font\mfglabsiconset-webfont.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\Simple-Line-Icons.eot">
+      <PackagePath>font\Simple-Line-Icons.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\mfglabsiconset-webfont.svg">
+      <PackagePath>font\mfglabsiconset-webfont.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\Simple-Line-Icons.svg">
+      <PackagePath>font\Simple-Line-Icons.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\app-store.svg">
+      <PackagePath>img\app-store.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\arrow-object-dark.svg">
+      <PackagePath>img\arrow-object-dark.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\arrow-object-light-blue.svg">
+      <PackagePath>img\arrow-object-light-blue.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\arrow-object-white.svg">
+      <PackagePath>img\arrow-object-white.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\google-play.svg">
+      <PackagePath>img\google-play.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-dark.svg">
+      <PackagePath>img\logo-dark.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo.svg">
+      <PackagePath>img\logo.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\start-your-business.svg">
+      <PackagePath>img\start-your-business.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\mfglabsiconset-webfont.ttf">
+      <PackagePath>font\mfglabsiconset-webfont.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\Simple-Line-Icons.ttf">
+      <PackagePath>font\Simple-Line-Icons.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\mfglabsiconset-webfont.woff">
+      <PackagePath>font\mfglabsiconset-webfont.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\Simple-Line-Icons.woff">
+      <PackagePath>font\Simple-Line-Icons.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\ajax-contact-form.jpg">
+      <PackagePath>img\ajax-contact-form.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\carousel-02.jpg">
+      <PackagePath>img\carousel-02.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\img-01.jpg">
+      <PackagePath>img\img-01.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\img-02.jpg">
+      <PackagePath>img\img-02.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\img-05.jpg">
+      <PackagePath>img\img-05.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-01.jpg">
+      <PackagePath>img\portfolio\portfolio-01.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-02.jpg">
+      <PackagePath>img\portfolio\portfolio-02.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-03.jpg">
+      <PackagePath>img\portfolio\portfolio-03.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-04.jpg">
+      <PackagePath>img\portfolio\portfolio-04.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-05.jpg">
+      <PackagePath>img\portfolio\portfolio-05.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-06.jpg">
+      <PackagePath>img\portfolio\portfolio-06.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\app.png">
+      <PackagePath>img\app.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\blog.png">
+      <PackagePath>img\blog.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-1.png">
+      <PackagePath>img\logo-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-2.png">
+      <PackagePath>img\logo-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-3.png">
+      <PackagePath>img\logo-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-4.png">
+      <PackagePath>img\logo-4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-5.png">
+      <PackagePath>img\logo-5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\only-for-2.png">
+      <PackagePath>img\only-for-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\premium-features.png">
+      <PackagePath>img\premium-features.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-01.png">
+      <PackagePath>img\responsive-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-02.png">
+      <PackagePath>img\responsive-02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-03.png">
+      <PackagePath>img\responsive-03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-04.png">
+      <PackagePath>img\responsive-04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-lightbox.png">
+      <PackagePath>img\responsive-lightbox.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-pricing-tables.png">
+      <PackagePath>img\responsive-pricing-tables.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\transparentLogo.png">
+      <PackagePath>img\transparentLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\virtua-responsive-business-template.png">
+      <PackagePath>img\virtua-responsive-business-template.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\virtua-responsive-elements.png">
+      <PackagePath>img\virtua-responsive-elements.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\virtua-templates.png">
+      <PackagePath>img\virtua-templates.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.video.play.png">
+      <PackagePath>owl-carousel\owl.video.play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\content-animation.gif">
+      <PackagePath>img\content-animation.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\count-to.gif">
+      <PackagePath>img\count-to.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\pie-charts.gif">
+      <PackagePath>img\pie-charts.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\typed.gif">
+      <PackagePath>img\typed.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\ajax-loader.gif">
+      <PackagePath>owl-carousel\ajax-loader.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\jquery-1.8.3.min.js">
+      <PackagePath>js\jquery-1.8.3.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\jquery-ui.min.js">
+      <PackagePath>js\jquery-ui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\jquery.events.touch.js">
+      <PackagePath>js\jquery.events.touch.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\responsee.js">
+      <PackagePath>js\responsee.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\template-scripts.js">
+      <PackagePath>js\template-scripts.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.carousel.js">
+      <PackagePath>owl-carousel\owl.carousel.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.carousel.min.js">
+      <PackagePath>owl-carousel\owl.carousel.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\LICENSE.txt">
+      <PackagePath>LICENSE.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
