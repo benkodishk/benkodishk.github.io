@@ -84,6 +84,10 @@
     <Content Include="img\carousel-02.jpg" />
     <Content Include="img\content-animation.gif" />
     <Content Include="img\count-to.gif" />
+    <Content Include="img\dishk_logo_dark.png" />
+    <Content Include="img\dishk_logo_name_light.png" />
+    <Content Include="img\dishk_logo_light.png" />
+    <Content Include="img\dishk_logo_light_xl.png" />
     <Content Include="img\google-play.svg" />
     <Content Include="img\img-01.jpg" />
     <Content Include="img\img-02.jpg" />
