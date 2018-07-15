@@ -10,7 +10,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>56516ab8-c60a-4b0e-b3e9-7ec70c366b9d</PackageIdentityName>
     <PackageIdentityPublisher>CN=hin</PackageIdentityPublisher>
-    <IntermediateOutputPath>e:\msbd\dishk\CompanyHome\CompanyHome\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>E:\git\dishk\benkodishk.github.io\bld\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -19,8 +19,8 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>B831D7A5DD165AA9413C3110FE5D209036F4DB675A75B9DB6F33163D0C714AED</RegisteredManifestChecksum>
+    <LayoutDir>E:\git\dishk\benkodishk.github.io\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>0605DB5D6D0849383AF68D9656555D445C43138CB85362FC0F3AFF0D9542E0D2</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>56516ab8-c60a-4b0e-b3e9-7ec70c366b9d_1.0.0.0_neutral__g3sc717knt4ky</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>56516ab8-c60a-4b0e-b3e9-7ec70c366b9d_g3sc717knt4ky!App</RegisteredUserModeAppID>
     <RegisteredPackageID>56516ab8-c60a-4b0e-b3e9-7ec70c366b9d</RegisteredPackageID>
@@ -29,367 +29,443 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="E:\git\dishk\benkodishk.github.io\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-18T16:49:03.602</Modified>
+      <Modified>2018-07-15T05:48:21.988</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\about-us.html">
-      <PackagePath>about-us.html</PackagePath>
-      <Modified>2018-04-18T08:54:20.000</Modified>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\animate.css">
+      <PackagePath>css\animate.css</PackagePath>
+      <Modified>2013-07-05T06:58:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\contact.html">
-      <PackagePath>contact.html</PackagePath>
-      <Modified>2018-04-18T08:54:20.000</Modified>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\bootstrap-responsive.css">
+      <PackagePath>css\bootstrap-responsive.css</PackagePath>
+      <Modified>2013-07-08T07:22:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\gallery.html">
-      <PackagePath>gallery.html</PackagePath>
-      <Modified>2018-04-18T08:54:20.000</Modified>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\bootstrap-responsive.min.css">
+      <PackagePath>css\bootstrap-responsive.min.css</PackagePath>
+      <Modified>2013-05-17T02:21:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\index.html">
-      <PackagePath>index.html</PackagePath>
-      <Modified>2018-04-18T16:46:13.881</Modified>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+      <Modified>2013-06-08T17:06:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\premium.html">
-      <PackagePath>premium.html</PackagePath>
-      <Modified>2018-04-18T08:54:20.000</Modified>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+      <Modified>2013-05-17T02:21:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\services.html">
-      <PackagePath>services.html</PackagePath>
-      <Modified>2018-04-18T08:54:20.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\components.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\components.css">
       <PackagePath>css\components.css</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\icons.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\flexslider.css">
+      <PackagePath>css\flexslider.css</PackagePath>
+      <Modified>2013-07-05T17:51:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\font-awesome-ie7.css">
+      <PackagePath>css\font-awesome-ie7.css</PackagePath>
+      <Modified>2013-06-17T03:33:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\font-awesome.css">
+      <PackagePath>css\font-awesome.css</PackagePath>
+      <Modified>2013-06-17T03:33:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\icons.css">
       <PackagePath>css\icons.css</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\responsee.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\overwrite.css">
+      <PackagePath>css\overwrite.css</PackagePath>
+      <Modified>2013-07-09T17:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\prettyPhoto.css">
+      <PackagePath>css\prettyPhoto.css</PackagePath>
+      <Modified>2013-04-06T08:26:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\responsee.css">
       <PackagePath>css\responsee.css</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\template-style.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\style.css">
+      <PackagePath>css\style.css</PackagePath>
+      <Modified>2018-07-15T05:32:36.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\template-style.css">
       <PackagePath>css\template-style.css</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\css\default.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2018-04-18T15:02:59.287</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\css\ui-light.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\lib\winjs-4.0.1\css\ui-light.css">
       <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\css\ui-dark.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\lib\winjs-4.0.1\css\ui-dark.css">
       <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.carousel.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\owl-carousel\owl.carousel.css">
       <PackagePath>owl-carousel\owl.carousel.css</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.theme.css">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\owl-carousel\owl.theme.css">
       <PackagePath>owl-carousel\owl.theme.css</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\mfglabsiconset-webfont.eot">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\font\mfglabsiconset-webfont.eot">
       <PackagePath>font\mfglabsiconset-webfont.eot</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\Simple-Line-Icons.eot">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\font\Simple-Line-Icons.eot">
       <PackagePath>font\Simple-Line-Icons.eot</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\mfglabsiconset-webfont.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\font\mfglabsiconset-webfont.svg">
       <PackagePath>font\mfglabsiconset-webfont.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\Simple-Line-Icons.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\font\Simple-Line-Icons.svg">
       <PackagePath>font\Simple-Line-Icons.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\app-store.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\app-store.svg">
       <PackagePath>img\app-store.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\arrow-object-dark.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\arrow-object-dark.svg">
       <PackagePath>img\arrow-object-dark.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\arrow-object-light-blue.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\arrow-object-light-blue.svg">
       <PackagePath>img\arrow-object-light-blue.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\arrow-object-white.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\arrow-object-white.svg">
       <PackagePath>img\arrow-object-white.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\google-play.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\google-play.svg">
       <PackagePath>img\google-play.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-dark.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\logo-dark.svg">
       <PackagePath>img\logo-dark.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\logo.svg">
       <PackagePath>img\logo.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\start-your-business.svg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\start-your-business.svg">
       <PackagePath>img\start-your-business.svg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\mfglabsiconset-webfont.ttf">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\font\mfglabsiconset-webfont.ttf">
       <PackagePath>font\mfglabsiconset-webfont.ttf</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\Simple-Line-Icons.ttf">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\font\Simple-Line-Icons.ttf">
       <PackagePath>font\Simple-Line-Icons.ttf</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\fonts\Symbols.ttf">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\lib\winjs-4.0.1\fonts\Symbols.ttf">
       <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\mfglabsiconset-webfont.woff">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\font\mfglabsiconset-webfont.woff">
       <PackagePath>font\mfglabsiconset-webfont.woff</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\font\Simple-Line-Icons.woff">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\font\Simple-Line-Icons.woff">
       <PackagePath>font\Simple-Line-Icons.woff</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\ajax-contact-form.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\ajax-contact-form.jpg">
       <PackagePath>img\ajax-contact-form.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\carousel-02.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\carousel-02.jpg">
       <PackagePath>img\carousel-02.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\img-01.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\DataVisualization2.jpg">
+      <PackagePath>img\DataVisualization2.jpg</PackagePath>
+      <Modified>2018-07-15T05:30:23.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\img-01.jpg">
       <PackagePath>img\img-01.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\img-02.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\img-02.jpg">
       <PackagePath>img\img-02.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\img-05.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\img-05.jpg">
       <PackagePath>img\img-05.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-01.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\portfolio\portfolio-01.jpg">
       <PackagePath>img\portfolio\portfolio-01.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-02.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\portfolio\portfolio-02.jpg">
       <PackagePath>img\portfolio\portfolio-02.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-03.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\portfolio\portfolio-03.jpg">
       <PackagePath>img\portfolio\portfolio-03.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-04.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\portfolio\portfolio-04.jpg">
       <PackagePath>img\portfolio\portfolio-04.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-05.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\portfolio\portfolio-05.jpg">
       <PackagePath>img\portfolio\portfolio-05.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\portfolio\portfolio-06.jpg">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\portfolio\portfolio-06.jpg">
       <PackagePath>img\portfolio\portfolio-06.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\app.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\app.png">
       <PackagePath>img\app.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\blog.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\blog.png">
       <PackagePath>img\blog.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-1.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\data-visualization.png">
+      <PackagePath>img\data-visualization.png</PackagePath>
+      <Modified>2018-07-15T05:22:33.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\DataVisualization3.png">
+      <PackagePath>img\DataVisualization3.png</PackagePath>
+      <Modified>2018-07-15T05:32:22.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\dishk_logo_dark.png">
+      <PackagePath>img\dishk_logo_dark.png</PackagePath>
+      <Modified>2018-04-26T14:27:27.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\dishk_logo_name_light.png">
+      <PackagePath>img\dishk_logo_name_light.png</PackagePath>
+      <Modified>2018-04-26T14:22:16.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\dishk_logo_light.png">
+      <PackagePath>img\dishk_logo_light.png</PackagePath>
+      <Modified>2018-04-26T14:22:16.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\dishk_logo_light_xl.png">
+      <PackagePath>img\dishk_logo_light_xl.png</PackagePath>
+      <Modified>2018-04-26T14:22:16.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\icons\basket.png">
+      <PackagePath>img\icons\basket.png</PackagePath>
+      <Modified>2013-07-06T18:08:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\icons\camera.png">
+      <PackagePath>img\icons\camera.png</PackagePath>
+      <Modified>2013-07-06T18:06:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\icons\creativity.png">
+      <PackagePath>img\icons\creativity.png</PackagePath>
+      <Modified>2013-07-07T14:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\icons\lab.png">
+      <PackagePath>img\icons\lab.png</PackagePath>
+      <Modified>2013-07-06T18:03:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\icons\laptop.png">
+      <PackagePath>img\icons\laptop.png</PackagePath>
+      <Modified>2013-07-06T18:13:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\logo-1.png">
       <PackagePath>img\logo-1.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-2.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\logo-2.png">
       <PackagePath>img\logo-2.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-3.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\logo-3.png">
       <PackagePath>img\logo-3.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-4.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\logo-4.png">
       <PackagePath>img\logo-4.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\logo-5.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\logo-5.png">
       <PackagePath>img\logo-5.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\only-for-2.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\only-for-2.png">
       <PackagePath>img\only-for-2.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\premium-features.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\premium-features.png">
       <PackagePath>img\premium-features.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-01.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\responsive-01.png">
       <PackagePath>img\responsive-01.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-02.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\responsive-02.png">
       <PackagePath>img\responsive-02.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-03.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\responsive-03.png">
       <PackagePath>img\responsive-03.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-04.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\responsive-04.png">
       <PackagePath>img\responsive-04.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-lightbox.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\responsive-lightbox.png">
       <PackagePath>img\responsive-lightbox.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\responsive-pricing-tables.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\responsive-pricing-tables.png">
       <PackagePath>img\responsive-pricing-tables.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\transparentLogo.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\transparentLogo.png">
       <PackagePath>img\transparentLogo.png</PackagePath>
       <Modified>2018-04-18T16:48:40.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\virtua-responsive-business-template.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\virtua-responsive-business-template.png">
       <PackagePath>img\virtua-responsive-business-template.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\virtua-responsive-elements.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\virtua-responsive-elements.png">
       <PackagePath>img\virtua-responsive-elements.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\virtua-templates.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\virtua-templates.png">
       <PackagePath>img\virtua-templates.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\visualise-01.png">
+      <PackagePath>img\visualise-01.png</PackagePath>
+      <Modified>2018-07-15T05:42:40.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\SplashScreen.scale-200.png">
       <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\Square150x150Logo.scale-200.png">
       <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\Square44x44Logo.scale-200.png">
       <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\StoreLogo.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\StoreLogo.png">
       <PackagePath>images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\Wide310x150Logo.scale-200.png">
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.video.play.png">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\owl-carousel\owl.video.play.png">
       <PackagePath>owl-carousel\owl.video.play.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\content-animation.gif">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\content-animation.gif">
       <PackagePath>img\content-animation.gif</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\count-to.gif">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\count-to.gif">
       <PackagePath>img\count-to.gif</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\pie-charts.gif">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\pie-charts.gif">
       <PackagePath>img\pie-charts.gif</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\img\typed.gif">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\typed.gif">
       <PackagePath>img\typed.gif</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\ajax-loader.gif">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\owl-carousel\ajax-loader.gif">
       <PackagePath>owl-carousel\ajax-loader.gif</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\jquery-1.8.3.min.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-07-15T05:48:21.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\jquery-1.8.3.min.js">
       <PackagePath>js\jquery-1.8.3.min.js</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\jquery-ui.min.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\jquery-ui.min.js">
       <PackagePath>js\jquery-ui.min.js</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\jquery.events.touch.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\jquery.events.touch.js">
       <PackagePath>js\jquery.events.touch.js</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\main.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\main.js">
       <PackagePath>js\main.js</PackagePath>
       <Modified>2018-04-18T15:02:59.308</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\responsee.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\responsee.js">
       <PackagePath>js\responsee.js</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\js\template-scripts.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\template-scripts.js">
       <PackagePath>js\template-scripts.js</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\js\base.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\lib\winjs-4.0.1\js\base.js">
       <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\lib\winjs-4.0.1\js\ui.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\lib\winjs-4.0.1\js\ui.js">
       <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
       <Modified>2017-10-15T03:25:19.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.carousel.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\owl-carousel\owl.carousel.js">
       <PackagePath>owl-carousel\owl.carousel.js</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\owl-carousel\owl.carousel.min.js">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\owl-carousel\owl.carousel.min.js">
       <PackagePath>owl-carousel\owl.carousel.min.js</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\LICENSE.txt">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\LICENSE.txt">
       <PackagePath>LICENSE.txt</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="e:\msbd\dishk\CompanyHome\CompanyHome\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-18T16:49:03.298</Modified>
+      <Modified>2018-07-15T05:48:21.910</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
