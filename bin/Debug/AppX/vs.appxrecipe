@@ -32,7 +32,7 @@
     <AppXManifest Include="E:\git\dishk\benkodishk.github.io\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-15T05:48:21.988</Modified>
+      <Modified>2018-07-15T11:51:49.897</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -232,6 +232,14 @@
       <PackagePath>img\portfolio\portfolio-06.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\analytics-256-2.png">
+      <PackagePath>img\analytics-256-2.png</PackagePath>
+      <Modified>2018-07-15T11:39:11.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\analytics-256.png">
+      <PackagePath>img\analytics-256.png</PackagePath>
+      <Modified>2018-07-15T11:25:30.677</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\app.png">
       <PackagePath>img\app.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
@@ -239,6 +247,42 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\blog.png">
       <PackagePath>img\blog.png</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\Broom.png">
+      <PackagePath>img\Broom.png</PackagePath>
+      <Modified>2018-07-15T05:54:31.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\cloud-upload-128.png">
+      <PackagePath>img\cloud-upload-128.png</PackagePath>
+      <Modified>2018-07-15T11:07:58.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\download-2-256.png">
+      <PackagePath>img\download-2-256.png</PackagePath>
+      <Modified>2018-07-15T11:31:38.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\download.png">
+      <PackagePath>img\download.png</PackagePath>
+      <Modified>2018-07-15T11:43:45.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\downloads-256.png">
+      <PackagePath>img\downloads-256.png</PackagePath>
+      <Modified>2018-07-15T11:17:01.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\etl.png">
+      <PackagePath>img\etl.png</PackagePath>
+      <Modified>2018-07-15T11:42:28.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\housekeep.png">
+      <PackagePath>img\housekeep.png</PackagePath>
+      <Modified>2018-07-15T11:36:09.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\imageedit_10_6743322394.png">
+      <PackagePath>img\imageedit_10_6743322394.png</PackagePath>
+      <Modified>2018-07-15T11:37:28.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\reportstat.png">
+      <PackagePath>img\reportstat.png</PackagePath>
+      <Modified>2018-07-15T10:56:18.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\data-visualization.png">
       <PackagePath>img\data-visualization.png</PackagePath>
@@ -356,6 +400,30 @@
       <PackagePath>img\visualise-01.png</PackagePath>
       <Modified>2018-07-15T05:42:40.299</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\visualize2.png">
+      <PackagePath>img\visualize2.png</PackagePath>
+      <Modified>2018-07-15T05:56:52.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\website-design-2-256.png">
+      <PackagePath>img\website-design-2-256.png</PackagePath>
+      <Modified>2018-07-15T11:05:21.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\website-design-256.png">
+      <PackagePath>img\website-design-256.png</PackagePath>
+      <Modified>2018-07-15T11:40:56.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\zoom-128.png">
+      <PackagePath>img\zoom-128.png</PackagePath>
+      <Modified>2018-07-15T11:23:27.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\zoom-256.png">
+      <PackagePath>img\zoom-256.png</PackagePath>
+      <Modified>2018-07-15T11:18:56.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\zoom.png">
+      <PackagePath>img\zoom.png</PackagePath>
+      <Modified>2018-07-15T11:45:02.252</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-10-15T03:25:19.596</Modified>
@@ -416,7 +484,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2018-07-15T05:48:21.688</Modified>
+      <Modified>2018-07-15T11:45:28.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\jquery-1.8.3.min.js">
       <PackagePath>js\jquery-1.8.3.min.js</PackagePath>
@@ -465,7 +533,7 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-15T05:48:21.910</Modified>
+      <Modified>2018-07-15T11:51:49.773</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

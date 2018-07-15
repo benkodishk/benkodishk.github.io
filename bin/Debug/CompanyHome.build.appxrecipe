@@ -172,11 +172,44 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\portfolio\portfolio-06.jpg">
       <PackagePath>img\portfolio\portfolio-06.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\analytics-256-2.png">
+      <PackagePath>img\analytics-256-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\analytics-256.png">
+      <PackagePath>img\analytics-256.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\app.png">
       <PackagePath>img\app.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\blog.png">
       <PackagePath>img\blog.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\Broom.png">
+      <PackagePath>img\Broom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\cloud-upload-128.png">
+      <PackagePath>img\cloud-upload-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\download-2-256.png">
+      <PackagePath>img\download-2-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\download.png">
+      <PackagePath>img\download.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\downloads-256.png">
+      <PackagePath>img\downloads-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\etl.png">
+      <PackagePath>img\etl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\housekeep.png">
+      <PackagePath>img\housekeep.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\imageedit_10_6743322394.png">
+      <PackagePath>img\imageedit_10_6743322394.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\reportstat.png">
+      <PackagePath>img\reportstat.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\data-visualization.png">
       <PackagePath>img\data-visualization.png</PackagePath>
@@ -264,6 +297,24 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\visualise-01.png">
       <PackagePath>img\visualise-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\visualize2.png">
+      <PackagePath>img\visualize2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\website-design-2-256.png">
+      <PackagePath>img\website-design-2-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\website-design-256.png">
+      <PackagePath>img\website-design-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\zoom-128.png">
+      <PackagePath>img\zoom-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\zoom-256.png">
+      <PackagePath>img\zoom-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\zoom.png">
+      <PackagePath>img\zoom.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
