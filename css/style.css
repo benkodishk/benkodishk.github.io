@@ -468,12 +468,30 @@ section.inner {
 }
 
 
+.section.blue h4, .section.blue h2{
+    color: #fcfcfc;
+}
+
+.section.blue p {
+    color: #f7f7f7;
+}
+
+
 /* === section spacer === */
 
 section.spacer {
 	padding:90px 0 70px;
 	color:#fcfcfc;
 }
+
+.spacer.blue, .section.blue {
+    background: #111c2d;
+}
+
+    .spacer.green, .section.blue h4, .section.blue h2{
+        color: #fff;
+    }
+
 
 .spacer.green,.section.green {
 	background:#1bac91;
@@ -928,32 +946,42 @@ section#about {
 	z-index: 999;
 }
 
-#contact-form input[type=text], .contactForm textarea {
-	background: rgba(227, 231, 228, 1);
-	font-family: 'Open Sans', sans serif;
-	border: 0;
-	font-size:16px;
-	text-align: left;
-	vertical-align: middle;
-}
+    #contact-form input[type=text], .contactForm textarea {
+        background-color: rgba(0, 0, 0, 0);
+        font-family: 'Open Sans', sans serif;
+        border: 0;
+        font-size: 16px;
+        border: 1px solid rgb(153, 153, 153);
+        color: #fff;
+        margin: 10px 0 15px;
+        padding: 0 10px;
+        width: 100%;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+    }
 
 .contactForm textarea {
 	height: 156px;
 }
 
-#contact-form input[type=text]:focus, .contactForm textarea:focus {
-	background: #fff;
-	color: #555;
-	box-shadow: none;
-	-moz-box-shadow: none;
-	-webkit-box-shadow: none;
-	transition: background 0.25 ease-in;
-	-moz-transition: background 0.25 ease-in;
-	-webkit-transition: background 0.25 ease-in;
-}
+    #contact-form input[type=text]:focus, .contactForm textarea:focus {
+        background-color: rgba(0, 0, 0, 0);
+        font-family: 'Open Sans', sans serif;
+        border: 0;
+        font-size: 16px;
+        border: 1px solid #fff;
+        color: #fff;
+        margin: 10px 0 15px;
+        padding: 0 10px;
+        width: 98%;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+    }
 #contact-form input[type=text] {
 	height: 60px;
-	margin-bottom:30px;
+	margin-bottom:0px;
 }
 #contact-form input[type=submit] {
 	color: #fff;
@@ -1746,3 +1774,23 @@ section#career.section.orange .service-box:hover {
     background: #f36518;
 }
 
+.addresstitle, .addressubtext, .addressubtext {
+    width: 100%;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Avenir Next LT Pro';
+    float: left;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.addressubtext {
+    font-weight: 400;
+    color: #999;
+    font-size: 18px;
+}
+
+.btn-blue {
+    background-color:rgb(26, 56, 102)  ;
+
+}
