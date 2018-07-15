@@ -86,12 +86,14 @@
     <Content Include="font\Simple-Line-Icons.ttf" />
     <Content Include="font\Simple-Line-Icons.woff" />
     <Content Include="img\ajax-contact-form.jpg" />
+    <Content Include="img\Analytics-512.png" />
     <Content Include="img\app-store.svg" />
     <Content Include="img\app.png" />
     <Content Include="img\arrow-object-dark.svg" />
     <Content Include="img\arrow-object-light-blue.svg" />
     <Content Include="img\arrow-object-white.svg" />
     <Content Include="img\blog.png" />
+    <Content Include="img\Broom.png" />
     <Content Include="img\carousel-02.jpg" />
     <Content Include="img\content-animation.gif" />
     <Content Include="img\count-to.gif" />
@@ -140,6 +142,7 @@
     <Content Include="img\virtua-responsive-elements.png" />
     <Content Include="img\virtua-templates.png" />
     <Content Include="img\visualise-01.png" />
+    <Content Include="img\visualize2.png" />
     <Content Include="index.html" />
     <Content Include="images\LockScreenLogo.scale-200.png" />
     <Content Include="images\SplashScreen.scale-200.png" />
