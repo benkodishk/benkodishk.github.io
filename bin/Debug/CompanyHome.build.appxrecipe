@@ -190,6 +190,12 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\cloud-upload-128.png">
       <PackagePath>img\cloud-upload-128.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\cms1.png">
+      <PackagePath>img\cms1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\cms2.png">
+      <PackagePath>img\cms2.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\download-2-256.png">
       <PackagePath>img\download-2-256.png</PackagePath>
     </AppxPackagedFile>

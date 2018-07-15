@@ -97,6 +97,8 @@
     <Content Include="img\Broom.png" />
     <Content Include="img\carousel-02.jpg" />
     <Content Include="img\cloud-upload-128.png" />
+    <Content Include="img\cms1.png" />
+    <Content Include="img\cms2.png" />
     <Content Include="img\download-2-256.png" />
     <Content Include="img\download.png" />
     <Content Include="img\downloads-256.png" />

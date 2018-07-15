@@ -32,7 +32,7 @@
     <AppXManifest Include="E:\git\dishk\benkodishk.github.io\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-15T11:51:49.897</Modified>
+      <Modified>2018-07-15T14:41:38.303</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -255,6 +255,14 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\cloud-upload-128.png">
       <PackagePath>img\cloud-upload-128.png</PackagePath>
       <Modified>2018-07-15T11:07:58.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\cms1.png">
+      <PackagePath>img\cms1.png</PackagePath>
+      <Modified>2018-07-15T14:31:42.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\cms2.png">
+      <PackagePath>img\cms2.png</PackagePath>
+      <Modified>2018-07-15T14:32:31.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\download-2-256.png">
       <PackagePath>img\download-2-256.png</PackagePath>
@@ -484,7 +492,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2018-07-15T11:45:28.122</Modified>
+      <Modified>2018-07-15T14:41:34.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\jquery-1.8.3.min.js">
       <PackagePath>js\jquery-1.8.3.min.js</PackagePath>
@@ -533,7 +541,7 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-15T11:51:49.773</Modified>
+      <Modified>2018-07-15T14:41:38.158</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
