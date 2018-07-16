@@ -88,15 +88,22 @@ jQuery(document).ready(function($) {
         i.next('.validation').html((ierror ? (i.attr('data-msg') != undefined ? i.attr('data-msg') : 'wrong Input') : '')).show('blind');
       }
     });
-    if (ferror) return false;
-    else var str = $(this).serialize();
+    if (ferror)
+        return false;
+    else
+        var str = $(this).serialize();
+
     $.ajax({
       type: "POST",
       url: "https://dishk-web-server.herokuapp.com/post",
       crossDomain: true,
       data: str,
-      success: function(msg) {
-                    alert("Your comment has been submitted. Thanks"); // show response from the php script.
+      success: function (msg)
+      {
+          alert("Your comment has been submitted. Thanks"); // show response from the php script.
+      }, 
+      error: function (msg) {
+          alert("Your comment is being submitted. Thanks"); // show response from the php script.
       }
     });
     return false;
