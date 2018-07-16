@@ -485,8 +485,7 @@
                     </div>
                 </div>
                 <div class="span8">
-                    <div class="cform" id="contact-form">
-                        <div id="sendmessage">Your message has been sent. Thank you!</div>
+                    <div class="cform" id="contact-form"> 
                         <div id="errormessage"></div>
                         <form action="" method="post" role="form" class="contactForm">
                             <div class="row">
@@ -572,7 +571,26 @@
 	<script src="js/animate.js"></script>
 	<script src="js/custom.js"></script>
 	<script src="contactform/contactform.js"></script>
+    <script>
 
+        // this is the id of the form
+        $("#contact-form").submit(function (e) {
+
+            var url = "https://dishk-web-server.herokuapp.com/post"; // the script where you handle the form input.
+
+            $.ajax({
+                type: "POST",
+                url: url,
+                data: $("#contact-form").serialize(), // serializes the form's elements.
+                success: function (data) {
+                    alert("Your comment has been submitted. Thanks"); // show response from the php script.
+                }
+            });
+
+            e.preventDefault(); // avoid to execute the actual submit of the form.
+        });
+
+    </script>
 </body>
 
 </html>
