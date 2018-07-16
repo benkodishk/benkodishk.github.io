@@ -172,6 +172,7 @@
     <Content Include="js\jquery-ui.min.js" />
     <Content Include="js\jquery.events.touch.js" />
     <Content Include="js\main.js" />
+    <Content Include="contactform\contactform.js" />
     <Content Include="css\default.css" />
     <Content Include="js\responsee.js" />
     <Content Include="js\template-scripts.js" />
