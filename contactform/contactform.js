@@ -93,6 +93,7 @@ jQuery(document).ready(function($) {
     $.ajax({
       type: "POST",
       url: "https://dishk-web-server.herokuapp.com/post",
+      crossDomain: true,
       data: str,
       success: function(msg) {
                     alert("Your comment has been submitted. Thanks"); // show response from the php script.
