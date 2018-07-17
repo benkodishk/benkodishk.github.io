@@ -273,6 +273,32 @@ h2.pagetitle {
 /* =========================================================
 04. Navigation
 ============================================================ */
+.scrolled {
+    background-color: #1b1b1b;
+    background-image: -moz-linear-gradient(top, #eeeeee, #ffffff) !important;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eeeeee), to(#ffffff)) !important;
+    background-image: -webkit-linear-gradient(top, #ffffff, #eeeeee) !important;
+    background-image: -o-linear-gradient(top, #ffffff, #eeeeee) !important;
+    background-image: linear-gradient(to bottom, #ffffff, #eeeeee) !important;
+    background-repeat: repeat-x;
+    border-color: #252525;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffeeeeee', GradientType=0) !important;
+    -webkit-transition: background-image 5s ease-out;
+    -moz-transition: background-image 5s ease-out;
+    -o-transition: background-image 5s ease-out;
+    transition: background-image 5s ease-out;
+}
+
+
+.scrolled .nav > li > a {
+    color: black !important;
+}
+
+
+.scrolled .nav > li > a:hover {
+    color: blue !important;
+}
+
 
 .navbar-fixed-top .container {
 /* Uncomment to make nav expand full width */

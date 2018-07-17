@@ -1,9 +1,10 @@
 jQuery(document).ready(function($) {
   "use strict";
 
+
     $(function () {
         $(document).scroll(function () {
-            var $nav = $(".navbar-inner");
+            var $nav = $(".navbar-fixed-top");
             $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
         });
     });
