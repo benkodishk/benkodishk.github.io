@@ -407,6 +407,16 @@ header .logo {
     background-size: cover;
 }
 
+
+#header-wrapper.header-slider-software {
+    background: #444 url(../img/programming_dark.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
 #main-flexslider ul.slides li p {
 	font-size: 72px;
 	text-transform: uppercase;
