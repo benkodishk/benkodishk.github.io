@@ -281,12 +281,15 @@ h2.pagetitle {
     background-image: -o-linear-gradient(top, #ffffff, #eeeeee) !important;
     background-image: linear-gradient(to bottom, #ffffff, #eeeeee) !important;
     background-repeat: repeat-x;
-    border-color: #252525;
+    border-color: #252525 !important;
+    border-width: 0 !important;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffeeeeee', GradientType=0) !important;
     -webkit-transition: background-image 5s ease-out;
     -moz-transition: background-image 5s ease-out;
     -o-transition: background-image 5s ease-out;
     transition: background-image 5s ease-out;
+    box-shadow: rgba(158, 158, 158, 0.3) -21.2167px 21.2167px 30px 0px !important;
+    box-sizing: border-box !important;
 }
 
 
@@ -296,7 +299,7 @@ h2.pagetitle {
 
 
 .scrolled .nav > li > a:hover {
-    color: blue !important;
+    color: rgb(132, 144, 255) !important;
 }
 
 
