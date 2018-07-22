@@ -105,6 +105,8 @@
     <Content Include="img\etl.png" />
     <Content Include="img\housekeep.png" />
     <Content Include="img\imageedit_10_6743322394.png" />
+    <Content Include="img\programming.jpg" />
+    <Content Include="img\programming_dark.jpg" />
     <Content Include="img\service_devl.png" />
     <Content Include="img\reportstat.png" />
     <Content Include="img\content-animation.gif" />
@@ -160,6 +162,7 @@
     <Content Include="img\zoom-128.png" />
     <Content Include="img\zoom-256.png" />
     <Content Include="img\zoom.png" />
+    <Content Include="software.html" />
     <Content Include="index.html" />
     <Content Include="images\LockScreenLogo.scale-200.png" />
     <Content Include="images\SplashScreen.scale-200.png" />

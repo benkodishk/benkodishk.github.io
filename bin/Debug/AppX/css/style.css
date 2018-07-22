@@ -273,6 +273,35 @@ h2.pagetitle {
 /* =========================================================
 04. Navigation
 ============================================================ */
+.scrolled {
+    background-color: #1b1b1b;
+    background-image: -moz-linear-gradient(top, #eeeeee, #ffffff) !important;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eeeeee), to(#ffffff)) !important;
+    background-image: -webkit-linear-gradient(top, #ffffff, #eeeeee) !important;
+    background-image: -o-linear-gradient(top, #ffffff, #eeeeee) !important;
+    background-image: linear-gradient(to bottom, #ffffff, #eeeeee) !important;
+    background-repeat: repeat-x;
+    border-color: #252525 !important;
+    border-width: 0 !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffeeeeee', GradientType=0) !important;
+    -webkit-transition: background-image 5s ease-out;
+    -moz-transition: background-image 5s ease-out;
+    -o-transition: background-image 5s ease-out;
+    transition: background-image 5s ease-out;
+    box-shadow: rgba(158, 158, 158, 0.3) -21.2167px 21.2167px 30px 0px !important;
+    box-sizing: border-box !important;
+}
+
+
+.scrolled .nav > li > a {
+    color: black !important;
+}
+
+
+.scrolled .nav > li > a:hover {
+    color: rgb(132, 144, 255) !important;
+}
+
 
 .navbar-fixed-top .container {
 /* Uncomment to make nav expand full width */
@@ -378,6 +407,16 @@ header .logo {
     background-size: cover;
 }
 
+
+#header-wrapper.header-slider-software {
+    background: #444 url(../img/programming_dark.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
 #main-flexslider ul.slides li p {
 	font-size: 72px;
 	text-transform: uppercase;
@@ -468,12 +507,30 @@ section.inner {
 }
 
 
+.section.blue h4, .section.blue h2{
+    color: #fcfcfc;
+}
+
+.section.blue p {
+    color: #f7f7f7;
+}
+
+
 /* === section spacer === */
 
 section.spacer {
 	padding:90px 0 70px;
 	color:#fcfcfc;
 }
+
+.spacer.blue, .section.blue {
+    background: #111c2d;
+}
+
+    .spacer.green, .section.blue h4, .section.blue h2{
+        color: #fff;
+    }
+
 
 .spacer.green,.section.green {
 	background:#1bac91;
@@ -928,32 +985,42 @@ section#about {
 	z-index: 999;
 }
 
-#contact-form input[type=text], .contactForm textarea {
-	background: rgba(227, 231, 228, 1);
-	font-family: 'Open Sans', sans serif;
-	border: 0;
-	font-size:16px;
-	text-align: left;
-	vertical-align: middle;
-}
+    #contact-form input[type=text], .contactForm textarea {
+        background-color: rgba(0, 0, 0, 0);
+        font-family: 'Open Sans', sans serif;
+        border: 0;
+        font-size: 16px;
+        border: 1px solid rgb(153, 153, 153);
+        color: #fff;
+        margin: 10px 0 15px;
+        padding: 0 10px;
+        width: 100%;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+    }
 
 .contactForm textarea {
 	height: 156px;
 }
 
-#contact-form input[type=text]:focus, .contactForm textarea:focus {
-	background: #fff;
-	color: #555;
-	box-shadow: none;
-	-moz-box-shadow: none;
-	-webkit-box-shadow: none;
-	transition: background 0.25 ease-in;
-	-moz-transition: background 0.25 ease-in;
-	-webkit-transition: background 0.25 ease-in;
-}
+    #contact-form input[type=text]:focus, .contactForm textarea:focus {
+        background-color: rgba(0, 0, 0, 0);
+        font-family: 'Open Sans', sans serif;
+        border: 0;
+        font-size: 16px;
+        border: 1px solid #fff;
+        color: #fff;
+        margin: 10px 0 15px;
+        padding: 0 10px;
+        width: 98%;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+    }
 #contact-form input[type=text] {
 	height: 60px;
-	margin-bottom:30px;
+	margin-bottom:0px;
 }
 #contact-form input[type=submit] {
 	color: #fff;
@@ -1705,4 +1772,64 @@ i.icon-white {
 	#contact-form input[type=submit] {
 		width: 100%;
 	}
+}
+
+
+
+/* === section services === */
+
+section#career h2 {
+    font-size: 22px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+section#career p {
+    margin: 10px;
+}
+
+
+section#career .service-box {
+    text-align: center;
+    padding: 20px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+section#career .span3:hover {
+    background: #e3e3e3;
+}
+
+section#career .service-box h2 {
+    color: #f7f7f7;
+    font-weight: 700;
+}
+
+section#career.section.orange .service-box:hover {
+    background: #f36518;
+}
+
+.addresstitle, .addressubtext, .addressubtext {
+    width: 100%;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Avenir Next LT Pro';
+    float: left;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.addressubtext {
+    font-weight: 400;
+    color: #999;
+    font-size: 18px;
+}
+
+.btn-blue {
+    background-color:rgb(26, 56, 102)  ;
+
 }

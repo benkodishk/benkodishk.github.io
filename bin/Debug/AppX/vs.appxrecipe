@@ -20,7 +20,7 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>E:\git\dishk\benkodishk.github.io\bin\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>0605DB5D6D0849383AF68D9656555D445C43138CB85362FC0F3AFF0D9542E0D2</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>599EC535AE9BB2D632DC954F1ADFD9E34112B7E9CECCADE046EE0E8B3022963C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>56516ab8-c60a-4b0e-b3e9-7ec70c366b9d_1.0.0.0_neutral__g3sc717knt4ky</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>56516ab8-c60a-4b0e-b3e9-7ec70c366b9d_g3sc717knt4ky!App</RegisteredUserModeAppID>
     <RegisteredPackageID>56516ab8-c60a-4b0e-b3e9-7ec70c366b9d</RegisteredPackageID>
@@ -32,7 +32,7 @@
     <AppXManifest Include="E:\git\dishk\benkodishk.github.io\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-15T14:41:38.303</Modified>
+      <Modified>2018-07-22T12:01:11.949</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -50,7 +50,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\bootstrap.css">
       <PackagePath>css\bootstrap.css</PackagePath>
-      <Modified>2013-06-08T17:06:30.000</Modified>
+      <Modified>2018-07-17T14:58:12.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\bootstrap.min.css">
       <PackagePath>css\bootstrap.min.css</PackagePath>
@@ -90,7 +90,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\style.css">
       <PackagePath>css\style.css</PackagePath>
-      <Modified>2018-07-15T05:32:36.626</Modified>
+      <Modified>2018-07-17T16:21:29.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\css\template-style.css">
       <PackagePath>css\template-style.css</PackagePath>
@@ -192,6 +192,14 @@
       <PackagePath>img\carousel-02.jpg</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\programming.jpg">
+      <PackagePath>img\programming.jpg</PackagePath>
+      <Modified>2018-07-17T16:05:15.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\programming_dark.jpg">
+      <PackagePath>img\programming_dark.jpg</PackagePath>
+      <Modified>2018-07-17T16:21:04.584</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\DataVisualization2.jpg">
       <PackagePath>img\DataVisualization2.jpg</PackagePath>
       <Modified>2018-07-15T05:30:23.445</Modified>
@@ -270,7 +278,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\download.png">
       <PackagePath>img\download.png</PackagePath>
-      <Modified>2018-07-15T11:43:45.677</Modified>
+      <Modified>2018-07-15T18:01:39.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\downloads-256.png">
       <PackagePath>img\downloads-256.png</PackagePath>
@@ -287,6 +295,10 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\imageedit_10_6743322394.png">
       <PackagePath>img\imageedit_10_6743322394.png</PackagePath>
       <Modified>2018-07-15T11:37:28.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\service_devl.png">
+      <PackagePath>img\service_devl.png</PackagePath>
+      <Modified>2018-07-15T17:52:51.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\reportstat.png">
       <PackagePath>img\reportstat.png</PackagePath>
@@ -490,9 +502,13 @@
       <PackagePath>owl-carousel\ajax-loader.gif</PackagePath>
       <Modified>2018-04-18T08:54:20.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\software.html">
+      <PackagePath>software.html</PackagePath>
+      <Modified>2018-07-22T12:00:57.188</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2018-07-15T14:41:34.462</Modified>
+      <Modified>2018-07-17T17:47:18.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\jquery-1.8.3.min.js">
       <PackagePath>js\jquery-1.8.3.min.js</PackagePath>
@@ -509,6 +525,10 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\main.js">
       <PackagePath>js\main.js</PackagePath>
       <Modified>2018-04-18T15:02:59.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\contactform\contactform.js">
+      <PackagePath>contactform\contactform.js</PackagePath>
+      <Modified>2018-07-17T15:01:23.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\responsee.js">
       <PackagePath>js\responsee.js</PackagePath>
@@ -541,7 +561,7 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-15T14:41:38.158</Modified>
+      <Modified>2018-07-22T12:01:11.788</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

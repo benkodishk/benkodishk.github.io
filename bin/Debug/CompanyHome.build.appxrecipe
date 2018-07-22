@@ -142,6 +142,12 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\carousel-02.jpg">
       <PackagePath>img\carousel-02.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\programming.jpg">
+      <PackagePath>img\programming.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\programming_dark.jpg">
+      <PackagePath>img\programming_dark.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\DataVisualization2.jpg">
       <PackagePath>img\DataVisualization2.jpg</PackagePath>
     </AppxPackagedFile>
@@ -213,6 +219,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\imageedit_10_6743322394.png">
       <PackagePath>img\imageedit_10_6743322394.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\service_devl.png">
+      <PackagePath>img\service_devl.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\img\reportstat.png">
       <PackagePath>img\reportstat.png</PackagePath>
@@ -367,6 +376,9 @@
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\owl-carousel\ajax-loader.gif">
       <PackagePath>owl-carousel\ajax-loader.gif</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\software.html">
+      <PackagePath>software.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
@@ -381,6 +393,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\main.js">
       <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\contactform\contactform.js">
+      <PackagePath>contactform\contactform.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\git\dishk\benkodishk.github.io\js\responsee.js">
       <PackagePath>js\responsee.js</PackagePath>

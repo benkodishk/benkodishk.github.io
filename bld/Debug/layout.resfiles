@@ -1,3 +1,4 @@
+contactform\contactform.js
 css\animate.css
 css\bootstrap.css
 css\bootstrap.min.css
@@ -83,6 +84,8 @@ img\portfolio\portfolio-04.jpg
 img\portfolio\portfolio-05.jpg
 img\portfolio\portfolio-06.jpg
 img\premium-features.png
+img\programming.jpg
+img\programming_dark.jpg
 img\reportstat.png
 img\responsive-01.png
 img\responsive-02.png
@@ -90,6 +93,7 @@ img\responsive-03.png
 img\responsive-04.png
 img\responsive-lightbox.png
 img\responsive-pricing-tables.png
+img\service_devl.png
 img\start-your-business.svg
 img\transparentLogo.png
 img\typed.gif
@@ -122,3 +126,4 @@ owl-carousel\owl.carousel.js
 owl-carousel\owl.carousel.min.js
 owl-carousel\owl.theme.css
 owl-carousel\owl.video.play.png
+software.html

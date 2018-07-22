@@ -7,6 +7,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="">
+    <meta name="description" content="Data Intelligence System, Artifical Intelligence, Software development vendor, Web development, App Development, DISHK, DIS, Software house, Data Analytic, AI">
+    <meta name="keywords" content="Data Intelligence System, Artifical Intelligence, Software development vendor, Web development, App Development, DISHK, DIS, Software house, Data Analytic, AI">
+
 	<link href="css/bootstrap-responsive.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
 	<link href="color/default.css" rel="stylesheet">
@@ -29,8 +32,9 @@
 						<ul id="menu-main" class="nav">
 							<li><a title="team" href="#about">About</a></li>
 							<li><a title="services" href="#services">Services</a></li>
-							<li><a title="works" href="#works">Works</a></li>
+<!--                            <li><a title="works" href="#works">Works</a></li> -->							
 							<li><a title="contact" href="#contact">Contact</a></li>
+                            <li><a title="services" href="#career">Career</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -53,11 +57,16 @@
                                         We tailor <strong>solutions</strong>
 									</p>
 								</li> 
-								<li>
-									<p class="home-slide-content">
-										We loves <strong>data</strong>
-									</p>
-								</li>
+                                <li>
+                                    <p class="home-slide-content">
+                                        We loves <strong>software</strong>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p class="home-slide-content">
+                                        We loves <strong>data</strong>
+                                    </p>
+                                </li>
                                 <li>
                                     <p class="home-slide-content">
                                         <strong>creative</strong> and passion
@@ -101,13 +110,18 @@
 					</div>
 				</div>
 				<div class="span6">
-					<div class="aligncenter">
-						<img src="img/icons/creativity.png" alt="" />
-					</div>
+                    <div class="span4 offset1">
+                        <div>
+                            <h2>We build <strong>solutions</strong></h2>
+                            <p>
+                                Map a strategy, build a solution or elevate your product experience with focused engagements available as standalone offerings or as a part of your project’s service stack
+                            </p>
+                        </div>
+                    </div>
 				</div>
 			</div>
 
-
+            <!--
 			<div class="row">
 				<div class="span4 offset1 flyIn">
                     <h2>Our Founders </h2>
@@ -131,26 +145,37 @@
 				</div>
  
 			</div>
+                -->
 		</div>
 		<!-- /.container -->
 	</section>
 	<!-- end section: team -->
 	<!-- section: services -->
+
 	<section id="services" class="section orange">
 		<div class="container">
 			<h4>Services</h4>
 			<!-- Four columns -->
-			<div class="row">
-				<div class="span6 animated-fast flyIn">
+			<div class="row" >
+                <div class="span6 animated-fast flyIn" onclick="location.href='software.html'" style="cursor: pointer">
+                    <div class="service-box">
+                        <img src="img/service_devl.png" width="160" height="160" alt="" />
+                        <h2>Custom Software Development</h2>
+                        <p>
+                            We think big, design smart and develop fast for all screens, projects and teams. We tailor our process based on your scale and structure. We are experienced in Web Development, Mobile Development, Project Management, Consulting and IoT. Talk to us if you wish to have more information.
+                        </p>
+                    </div>
+                </div>
+				<div class="span6 animated-fast flyIn" onclick="location.href='software.html'" style="cursor: pointer">
 					<div class="service-box">
 						<img src="img/website-design-256.png" width="160" height="160" alt="" />
 						<h2>Web development</h2>
 						<p>
-                           If you really want to generate more business with a quality website. This may be the first line of communication between you and potential guests or visitors. 
+                            Custom web development offers options for businesses who seek to provide a flexible, consistent experience for users across platforms. Leveraging new approaches to web development including progressive web apps, we bring front-end, back-end and architecture ability together to deliver on your business need. 
                         </p>
 					</div>
 				</div>
-				<div class="span6 animated-fast flyIn">
+				<div class="span6 animated-fast flyIn" onclick="location.href='software.html'" style="cursor: pointer">
 					<div class="service-box">
 						<img src="img/analytics-256-2.png" width="160" height="160" alt="" />
 						<h2>Data Analytic</h2>
@@ -159,7 +184,7 @@
 						</p>
 					</div>
 				</div>
-                <div class="span6 animated-fast flyIn">
+                <div class="span6 animated-fast flyIn" onclick="location.href='software.html'" style="cursor: pointer">
                     <div class="service-box">
                         <img src="img/etl.png" width="160" height="160"  alt="" />
                         <h2>ETL</h2>
@@ -168,21 +193,13 @@
                         </p>
                     </div>
                 </div>
+                <!--
                 <div class="span6 animated flyIn">
                     <div class="service-box">
                         <img src="img/download.png" width="160" height="160"  alt="" />
                         <h2>Web crawler</h2>
                         <p>
                             The ability to browse through the content of World Wide Web in an automated manner is performed by web crawler. It is also referred to as the spiders, web robots, automatic indexers, bots and ants. The process that is implemented by a web crawler is often referred to as spidering or web crawling.
-                        </p>
-                    </div>
-                </div>
-                <div class="span6 animated-fast flyIn">
-                    <div class="service-box">
-                        <img src="img/zoom.png" width="160" height="160" alt="" />
-                        <h2>Data Visualization</h2>
-                        <p>
-                            One of the most important beneﬁts of visualization is that it allows us visual access to huge amounts of data in easily digestible visuals. Well designed data graphics are usually the simplest and at the same time, the most powerful.
                         </p>
                     </div>
                 </div>
@@ -195,12 +212,13 @@
 						</p>
 					</div>
 				</div>
+                    -->
 			</div>
 		</div>
 	</section>
 	<!-- end section: services -->
 	<!-- section: works -->
-	<section id="works" class="section">
+	<section id="works" class="section" style="display:none">
 		<div class="container clearfix">
 			<h4>Our Works</h4>
 			<!-- portfolio filter -->
@@ -242,8 +260,8 @@
 						<!-- portfolio item -->
 						<div class="portfolio-item grid print photography">
 							<div class="portfolio">
-								<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
-						<img src="img/works/1.png" alt="" />
+								<a href="img/cms1.png" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<img src="img/cms1.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
 								<h5>Portfolio name</h5>
@@ -414,54 +432,134 @@
 
 	<!-- end spacer section -->
 	<!-- section: contact -->
-	<section id="contact" class="section green">
+	<section id="contact" class="section blue">
 		<div class="container">
-			<h4>Get in Touch</h4>
-			<p>
-				If you wish to have more details, please contact us via email: benko@dishk.com or phone: 852-3565 6395
-			</p>
+			<h2 style="text-align:center">Let’s talk to us and start a project</h2>
+			 
 			<div class="blankdivider30">
 			</div>
 			<div class="row">
-				<div class="span12">
-					<div class="cform" id="contact-form">
-						<div id="sendmessage">Your message has been sent. Thank you!</div>
-						<div id="errormessage"></div>
-						<form action="" method="post" role="form" class="contactForm">
-							<div class="row">
-								<div class="span6">
-									<div class="field your-name form-group">
-										<input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-										<div class="validation"></div>
-									</div>
-									<div class="field your-email form-group">
-										<input type="text" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-										<div class="validation"></div>
-									</div>
-									<div class="field subject form-group">
-										<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-										<div class="validation"></div>
-									</div>
-								</div>
-								<div class="span6">
-									<div class="field message form-group">
-										<textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-										<div class="validation"></div>
-									</div>
-									<input type="submit" value="Send message" class="btn btn-theme pull-left">
-								</div>
-							</div>
-						</form>
-					</div>
-				</div>
-				<!-- ./span12 -->
-			</div>
-            <p>
-                11-14 Kwai Sau Road, Kwai Chung, Hong Kong
-            </p>
+                <div class="span4">
+                    <div class="row">
+                        <p>
+                            <div class="addresstitle">Headquarter</div>
+                        </p>
+                        <p>
+                            <div class="addressubtext">
+                                11-14 Kwai Sau Road 
+                            </div>
+                        </p>
+                        <p>
+                            <div class="addressubtext">
+                                Kwai Chung, Hong Kong
+                            </div>
+                        </p>
 
+                    </div>
+                    <div class="row">
+                    </div>
+                    <div class="row">
+                        <p>
+                            <div class="addresstitle">Phone</div>
+                        </p>
+                        <p>
+                            <div class="addressubtext">
+                                +852-3565 6395
+                            </div>
+                        </p>
+                        <p>
+                            <div class="addressubtext">
+                                +852-9163 4049
+                            </div>
+                        </p>
+
+                    </div>
+                    <div class="row">
+                    </div>
+                    <div class="row">
+                        <p>
+                            <div class="addresstitle">Email</div>
+                        </p>
+                        <p>
+                            <div class="addressubtext">
+                                sales@dishk.com
+                            </div>
+                        </p>
+
+                    </div>
+                </div>
+                <div class="span8">
+                    <div class="cform" id="contact-form"> 
+                        <div id="errormessage"></div>
+                        <form action="" method="post" role="form" class="contactForm">
+                            <div class="row">
+                                <div class="span4">
+                                    <div class="field your-name form-group">
+                                        <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                        <div class="validation"></div>
+                                    </div>
+                                </div>
+                                <div class="span4">
+                                    <div class="field your-email form-group">
+                                        <input type="text" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                                        <div class="validation"></div>
+                                    </div>
+                                </div>
+                                <div class="span8">
+                                    <div class="field subject form-group">
+                                        <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                        <div class="validation"></div>
+                                    </div>
+                                </div>
+                                <div class="span8">
+                                    <div class="field message form-group">
+                                        <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                                        <div class="validation"></div>
+                                    </div>
+                                </div>
+                                <div class="span8">
+                                    <input type="submit" value="Send message" class="btn btn-blue pull-left" style="width:100%">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                    <!-- ./span12 -->
+                </div>
+             
 		</div>
 	</section> 
+
+
+    <section id="career" class="section ">
+        <div class="container">
+            <h4>Join the team</h4>
+            <!-- Four columns -->
+            <div class="row">
+                <div class="span12 animated-fast flyIn">
+                    <div class="service-box">
+                        <p>
+
+
+                            We, at Data Intelligence System, are re-defining the services industry. We are a team of passionate professionals who close focus on delivering quality products. We don't offer jobs. We offer career.
+                            Our team is small but growing fast, we’d love your help. Come, Join Us!
+
+                            To get started, send us an email at
+                            <a href="mailto:admin@dishk.com" style="margin-top:10px; display:inline-block; color:blue">
+                                    admin@dishk.com
+                                    <div class="hex-alt">
+                                        <i class="fa fa-envelope"></i>
+                                    </div>
+                            </a>
+
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
 
 	<a href="#" class="scrollup"><i class="icon-angle-up icon-square icon-bgdark icon-2x"></i></a>
@@ -477,7 +575,10 @@
 	<script src="js/animate.js"></script>
 	<script src="js/custom.js"></script>
 	<script src="contactform/contactform.js"></script>
+    <script>
+         
 
+    </script>
 </body>
 
 </html>
